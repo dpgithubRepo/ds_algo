@@ -1,4 +1,5 @@
-package com.concordance.builder;
+  
+package com.java.ds.algos;
 
 import java.util.HashMap;
 import java.util.Map;
