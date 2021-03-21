@@ -2,7 +2,7 @@ package com.java.ds.algos;
 
 
 /**
- * Single linked list implementation
+ * Single linked list implementation & general purpose functions
  */
 
 class Node {
